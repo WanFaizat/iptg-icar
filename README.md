@@ -5,8 +5,8 @@ Page pintu masuk untuk **IPTG iCar**, sistem log penggunaan kenderaan pejabat
 
 Page ini memberi ikon app (iPhone dan Android) dan terus membuka sistem IPTG iCar.
 
-- Preve: `https://wanfaizat.github.io/iptg-icar/?car=DCL5955`
-- Innova: `https://wanfaizat.github.io/iptg-icar/?car=DEK4545`
-- Dashboard PIC: `https://wanfaizat.github.io/iptg-icar/?v=pic`
+- Preve: `https://icar.tokguru.my/?car=DCL5955`
+- Innova: `https://icar.tokguru.my/?car=DEK4545`
+- Dashboard PIC: `https://icar.tokguru.my/?v=pic`
 
 Direka & dibangunkan oleh **FAIMS EMPIRE** · 202203239279 (RA0092129-K)
